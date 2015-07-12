@@ -57,6 +57,9 @@
     <ClCompile Include="aes\sha1.c">
       <Filter>AES</Filter>
     </ClCompile>
+    <ClCompile Include="ioapi_mem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="crypt.h">
@@ -106,6 +109,9 @@
     </ClInclude>
     <ClInclude Include="aes\sha1.h">
       <Filter>AES</Filter>
+    </ClInclude>
+    <ClInclude Include="ioapi_mem.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

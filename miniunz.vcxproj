@@ -156,6 +156,7 @@
     <ClCompile Include="aes\pwd2key.c" />
     <ClCompile Include="aes\sha1.c" />
     <ClCompile Include="ioapi.c" />
+    <ClCompile Include="ioapi_mem.c" />
     <ClCompile Include="iowin32.c" />
     <ClCompile Include="miniunz.c" />
     <ClCompile Include="unzip.c" />
@@ -175,6 +176,7 @@
     <ClInclude Include="aes\sha1.h" />
     <ClInclude Include="crypt.h" />
     <ClInclude Include="ioapi.h" />
+    <ClInclude Include="ioapi_mem.h" />
     <ClInclude Include="iowin32.h" />
     <ClInclude Include="unzip.h" />
   </ItemGroup>
